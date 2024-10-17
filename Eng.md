@@ -14,6 +14,14 @@ integration 集成
 
 encompass 包含
 
+comprise 包括
+
  subjected to 受到
 
  outperform 优于
+
+diurnal 昼夜的
+
+myopic 短视的
+
+Ablation 消融

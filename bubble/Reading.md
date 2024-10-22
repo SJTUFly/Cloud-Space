@@ -10,3 +10,6 @@ harness 利用
 
 made significant strides 取得巨大进展
 
+outpace 超过
+
+intricate 复杂的
